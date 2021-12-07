@@ -3,6 +3,7 @@ This is my Capstone Project from Data Analyst professional certificate from Goog
 - Cleaning  and Organize Data with SQl server queries
 - Using Pandas to group and filter data
 - Matplotlib to create visualizations
-Using a Dataset from Kaggle I analized information about how people use smart devices in order to get insights for a marketing campaing related to a wellness tecnology company 
 
-The information used, my code can be found at the attached files.
+Using a Dataset from Kaggle I analized information about how people use smart devices in order to get insights for a marketing campaing related to a wellness technology company 
+
+The information used and my code can be found at the attached files.
